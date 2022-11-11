@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Знаки</string>
+    <string name="imageViewlogo">Логотип приложения</string>
+
+    <string-array name="category">
+        <item>Значения рун</item>
+        <item>Гадание на рунах</item>
+        <item>Алгоритм проживания рун</item>
+        <item>Руническая магия</item>
+    </string-array>
+
+    <string-array name="magic">
+        <item>Техника безопасности</item>
+        <item>Виды формул</item>
+    </string-array>
+
+    <string-array name="FormulaTypes">
+        <item>Ставы</item>
+        <item>Еще что-то</item>
+    </string-array>
+
+    <string-array name="typeOfDivination">
+        <item>Подготовка к гаданию</item>
+        <item>Техника бросания одной руны</item>
+        <item>Гадание по трем рунам</item>
+        <item>Гадание по сферам жизни</item>
+        <item>Гадание \"Кто Я\"</item>
+        <item>Гадание \"Крест\" вар. 1</item>
+        <item>Гадание \"Крест\" вар. 2</item>
+    </string-array>
+
+    <string-array name="meaningOfDivination">
+        <item>Феху</item>
+        <item>Уруз</item>
+        <item>Турисаз</item>
+        <item>Ансуз</item>
+        <item>Райдо</item>
+        <item>Кано</item>
+        <item>Гебо</item>
+        <item>Вуньо</item>
+        <item>Хагалаз</item>
+        <item>Наутиз</item>
+        <item>Иса</item>
+        <item>Йера</item>
+        <item>Эйваз</item>
+        <item>Перт</item>
+        <item>Альгиз</item>
+        <item>Соулу</item>
+        <item>Тейваз</item>
+        <item>Беркана</item>
+        <item>Эваз</item>
+        <item>Манназ</item>
+        <item>Лагуз</item>
+        <item>Ингуз</item>
+        <item>Оттила</item>
+        <item>Дагаз</item>
+    </string-array>
+
+
+    <string name="Desc_urus">
+        Описание Урус
+    </string>
+    <string name="Desc_tur">
+        Описание Турисаз
+    </string>
+
+    <string name="runes_img">Картинка рун</string>
+</resources>
