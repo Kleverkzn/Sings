@@ -15,6 +15,7 @@
     </string-array>
 
     <string-array name="FormulaTypes">
+        <item>Предисловие</item>
         <item>Ставы</item>
         <item>Еще что-то</item>
     </string-array>
