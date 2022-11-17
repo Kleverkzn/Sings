@@ -17,7 +17,8 @@
     <string-array name="FormulaTypes">
         <item>Предисловие</item>
         <item>Ставы</item>
-        <item>Еще что-то</item>
+        <item>Триадные заклинания</item>
+        <item>Палиндромы</item>
     </string-array>
 
     <string-array name="typeOfDivination">

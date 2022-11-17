@@ -31,6 +31,10 @@ public class StavyActivity extends AppCompatActivity {
                     webViewStavy.loadUrl("file:///android_asset/stavy/stavy.html");
                     setTitle("Ставы");
                     break;
+                case 2:
+                    webViewStavy.loadUrl("file:///android_asset/triad_spells/triad_spells.html");
+                    setTitle("Триадные заклинания");
+                    break;
             }
 
 
